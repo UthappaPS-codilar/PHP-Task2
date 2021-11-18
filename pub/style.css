@@ -1,0 +1,96 @@
+.mainBox{
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+.box {
+    background: #141414;
+    padding: 1rem 0;
+    padding-top: 1rem;
+    padding-right: 0px;
+    padding-bottom: 1.855rem;
+    padding-left: 0px;
+    color: azure;
+}
+.container {
+    max-width: 1280px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 2%;
+    font-size: 3vh;
+}
+.FormControl {
+    background-color: #ececec;
+    border: 1px solid #ececec;
+    color: #333;
+    display: inline-block;
+    font-family: Corporate A BQ, Daimler CS;
+    font-size: 1.285rem;
+    height: 2.855rem;
+    line-height: 1.715rem;
+    padding: 0.355rem 1rem -1rem 1rem;
+    vertical-align: baseline;
+    width: calc(100% - 4.425rem);
+}
+.button{
+    background-color: blue;
+    color: aliceblue;
+}
+.flex {
+    display: grid;
+    grid: auto auto/ auto;
+    grid-gap: 0.5vw;
+    padding: 10px;
+    align-self: center;
+    max-width: 56vw;
+    text-align: center;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    font-size: 2vh;
+}
+.flex1 {
+    display: grid;
+    grid: auto /  auto;
+    grid-gap: 0.5vw;
+    padding: 10px;
+    align-self: center;
+    max-width: 56vw;
+    text-align: center;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    font-size: 2vh;
+}
+.align{
+    color: #058aff;
+    text-align: center;
+}
+img{
+    height: 50%;
+    width: 50%;
+    object-fit: cover;
+}
+.alert{
+    color: red;
+    text-align: center;
+}
+.headingsStyle{
+    max-width: 1280px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 2%;
+    font-size: 3vh;
+    text-align: center;
+}
+.successfully{
+    color: #20ea0a;
+    text-align: center;
+}
